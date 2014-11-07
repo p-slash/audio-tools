@@ -1,2 +1,6 @@
 audio-tools
 ===========
+
+Requirements
+----
+* PyAudio
